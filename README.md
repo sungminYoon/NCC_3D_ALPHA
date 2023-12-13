@@ -1,4 +1,4 @@
-# NCC_3D_ALPA
+# NCC_3D_ALPHA
 The program was created with the support of the National Cancer Center.
 
 The program was written on the advice of Yuh-Seog Jung, Jungirl Seok, boyul hwang medical doctor.
